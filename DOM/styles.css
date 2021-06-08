@@ -1,0 +1,11 @@
+.background {
+  background-color: lightyellow;
+  padding: 25px;
+  margin-bottom: 20px;
+}
+body {
+  background-image: url(https://picsum.photos/1200);
+}
+.card {
+  background-color: lightyellow;
+}
